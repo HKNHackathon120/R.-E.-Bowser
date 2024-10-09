@@ -2,11 +2,11 @@
 
 ## Overview
 
-This challenge requires the participants to find a location which is encrypted in a given file.
+This challenge requires the participants to find the coordinates of a location which is encrypted in a given file.
 
 ### Knowledge
 
-No previous knowledge required.
+No prior knowledge required.
 
 ## Files provided
 
@@ -15,12 +15,17 @@ No previous knowledge required.
 
 ## Documentation
 
-To solve this challenge you need to understand how the encryption is done. This can help you find which possible attack to do
-to decrypt the file.
+### Step 1: Understand the vulnerability
+
+The file responsible for the encryption has a flaw in how the encryption is implemented.
+
+### Step 2: Decrypt the file
+
+Based on the vulnerability found in the previous step, there are two possible ways to solve it.
 
 ## Evaluation Criteria
 
-The evaluation will be based on the number of people that are able to provides the position. After a certain number of people solve the challenge, the points assigned will be reduced.
+Evaluation will be based on the number of participants who are able to provide the correct coordinates. After a certain number of participants solve the challenge, the points awarded will decrease.
 
 ## Submission
 
