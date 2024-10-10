@@ -132,7 +132,7 @@ The submission time will not award any points; it will only be considered in the
 
 ## Submission
 
-To complete the challenge, use [this form]() to submit a `.py` file containing your solution.
+To complete the challenge, use [this form](https://docs.google.com/forms/d/e/1FAIpQLSedCYACR4Imw_vnkb-28Y6njpXjzGYw_PQG51AcVk0m-JIGow/viewform?usp=sf_link) to submit a `.py` file containing your solution.
 
 ```
 

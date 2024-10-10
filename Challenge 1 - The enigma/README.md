@@ -29,4 +29,4 @@ Evaluation will be based on the number of participants who are able to provide t
 
 ## Submission
 
-To complete the challenge, use [this form]() to submit the coordinates you got after decrypting the text.
+To complete the challenge, use [this form](https://docs.google.com/forms/d/e/1FAIpQLSfeT66G9j9Qvy7LJTlAtNqQcf9PRkPcqwYRPSRWKQ8liqmgGg/viewform?usp=sf_link) to submit the coordinates you got after decrypting the text.
